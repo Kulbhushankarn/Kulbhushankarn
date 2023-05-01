@@ -7,7 +7,7 @@
     <td>
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
-        <li>🎓 &nbsp; B-Tech of Computer Science And Engineering at <a href="https://www.davuniversity.org/">UT</a></li>
+        <li>🎓 &nbsp; B-Tech of Computer Science And Engineering at <a href="https://www.davuniversity.org/">DAV University</a></li>
         <li>👑 &nbsp; Software Developer Trainee </li>
         <li>🤔 &nbsp; Interested in Machine Learning and Optimization</li>
        </ul>
