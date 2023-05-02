@@ -45,6 +45,8 @@
      <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
      <img src="https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab"/>
      <br>
+     <img src="https://img.shields.io/badge/-Node-05122A?style=flat&logo=node"/>
+     <br>
      <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
      <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb"/>
      <br>
