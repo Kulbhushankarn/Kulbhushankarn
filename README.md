@@ -44,6 +44,7 @@
      <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
      <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
      <img src="https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab"/>
+     <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman"/>
      <br>
      <img src="https://img.shields.io/badge/-Node-05122A?style=flat&logo=node"/>
      <br>
