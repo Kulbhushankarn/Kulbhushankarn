@@ -7,9 +7,10 @@
     <td>
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
-        <li>🎓 &nbsp; B-Tech of Computer Science And Engineering at <a href="https://www.davuniversity.org/">DAV University</a></li>
+        <li>🎓 &nbsp; B-Tech in Computer Science And Engineering at <a href="https://www.davuniversity.org/">DAV University</a></li>
         <li>👑 &nbsp; Software Developer Trainee </li>
         <li>🤔 &nbsp; Interested in Machine Learning and Optimization</li>
+         <li>💻 &nbsp; Currently working on Reactjs and Web Development</li>
        </ul>
        <p align="center">
          <br>
