@@ -19,7 +19,7 @@
     </td>
     <td>
      <p align="center">
-        <img height="360em" src="programmer.gif">
+        <img height="350em" src="programmer.gif">
      </p>
     </td>
   </tr>
