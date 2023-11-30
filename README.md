@@ -65,7 +65,7 @@
       </p>
       <br>
       <a href="https://www.instagram.com/im_rahulkarna/?next=%2F" target="_blank">
-      <img align="center" alt="Kulbhushan Karn | Instagram" width="30em" src="https://images.app.goo.gl/m6w3Asw6rxTgv7P87" />
+      <img align="center" alt="Kulbhushan Karn | Instagram" width="30em" src="https://img.icons8.com/instagram" />
       </a> &nbsp;&nbsp;
       <a href="mailto:karnkulbhushan@gmail.com" >
       <img align="center" alt="Kulbhushan Karn | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
