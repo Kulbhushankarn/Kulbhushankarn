@@ -76,13 +76,13 @@
       <br>
     </div>
    </td>
-   <td>
+   <tr>
      <div>
          <a href="https://github.com/Kulbhushankarn">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kulbhushankarn&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
      </div>
-   </td>
+   </tr>
 
   </tr>
 </table>
