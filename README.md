@@ -19,7 +19,7 @@
     </td>
     <td>
      <p align="center">
-        <img height="360em src="https:\\images.app.goo.gl\F1QDbDwsoQaLGejUA">
+        <img height="360em" src="programmer.gif">
      </p>
     </td>
   </tr>
