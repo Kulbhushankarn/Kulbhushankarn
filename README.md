@@ -30,7 +30,6 @@
      <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B"/>
      <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
      <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
-     <img src="https://img.shields.io/badge/-C#-05122A?style=flat&logo=C%23"/>
      <br>
      <img src="https://img.shields.io/badge/-jupyter-05122A?style=flat&logo=jupyter"/>
      <img src="https://img.shields.io/badge/-colab-05122A?style=flat&logo=googlecolab"/>
